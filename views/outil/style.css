@@ -1,0 +1,17 @@
+body
+{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #f4f4f4;;
+    direction: rtl;
+
+}
+header
+{
+    background-color: gray;
+    color: #ffffff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: blue 5PX solid;
+}
